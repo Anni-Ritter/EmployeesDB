@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gwZ3pBp6+Pd1fm6xwNayrvQRS41guQ3YG2Q6EpixYfb7mB3OTFuBZSQ6iiKGg43PD8ubrYTpp8M4eTHGAUzrsg==",
+  "dgSpecHash": "1gO7BvljH/q16GrrDlXBkl1L62ZvQfM33SU+6twKeD5T1qjGtMwoXy9IT9MjR0RVTuFJMwnNygq+R8ObMOoLHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\source\\repos\\EmployeesDB\\EmployeesDB\\EmployeesDB.csproj",
   "expectedPackageFiles": [
@@ -101,8 +101,7 @@
     "C:\\Users\\Asus\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Asus\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
